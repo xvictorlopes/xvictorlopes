@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Victor Lopes!
 
-<!--
-**xvictorlopes/xvictorlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Brazilian Software Engineer** specialized in the **Laravel Ecosystem** and **SaaS applications**.  
+My focus is on **transforming ideas into shipping products** using tools like **FilamentPHP**, without losing sight of **clean code, architecture, and scalability**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge&logo=livewire&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=xvictorlopes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvictorlopes&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xvlopes/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x.victorlopes@gmail.com)
