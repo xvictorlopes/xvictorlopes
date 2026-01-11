@@ -17,13 +17,3 @@ My focus is on **transforming ideas into shipping products** using tools like **
 
 ---
 
-## 📊 GitHub Stats
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=xvictorlopes&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvictorlopes&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xvlopes/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x.victorlopes@gmail.com)
